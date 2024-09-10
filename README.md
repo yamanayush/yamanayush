@@ -1,4 +1,4 @@
-<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
+<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"></p>
 <h1 align="center">Hi 👋, I'm YAMAN AYUSH</h1>
 
 # 💫 About Me:
@@ -26,9 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yamanayush&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</p>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
