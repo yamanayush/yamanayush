@@ -1,3 +1,4 @@
+<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"></p>
 <h1 align="center">Hi 👋, I'm YAMAN AYUSH</h1>
 
 # 💫 About Me:
